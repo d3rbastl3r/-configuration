@@ -15,9 +15,9 @@ This file describes the custom keybindings for the Keychron K3 Pro
 
 - Layer 3: `RGB Toggle` to `NOT DEFINED`
 
-### Right Shift
+### Right Control
 
-- Layer 2: `Right Shift` to `Capslock`
+- Layer 2: `Right Control` to `Capslock`
 
 ### Capslock
 
