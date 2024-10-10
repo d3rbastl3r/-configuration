@@ -2,3 +2,6 @@ This file describes what community plugins i prefer to use. To find and install 
 
 ### Colored Text
 Enables the possibility to assign colors to the text. To add more predefined colors to the color palet, go to the Plugin, click on `Options` and just set the `Number of Color Cells` you want.
+
+### Colored Tags
+Show the tags in different colors. Assifn the colors to the tags automatically.
